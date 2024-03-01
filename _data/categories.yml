@@ -1,11 +1,8 @@
-- slug: recordings
-  name: recordings
+- slug: Journal
+  name: Journal
 
-- slug: tools
-  name: Tools
+- slug: Technical
+  name: Technical
 
-- slug: productivity
-  name: Productivity
-
-- slug: test
-  name: test
+- slug: Miscellaneous
+  name: Miscellaneous
