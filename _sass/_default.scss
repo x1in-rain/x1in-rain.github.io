@@ -16,8 +16,10 @@ a {
 }
 
 p {
-    font-size: 15px;
-    line-height: 32px;
+    font-size: 18px;
+    line-height: 1.6; /* 调整行间距 */
+    max-width: 800px; /* 设置段落最大宽度 */
+    margin: 0 auto 20px; /* 设置段落上下边距和居中对齐 */
 }
 
 img {
