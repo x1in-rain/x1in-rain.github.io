@@ -11,5 +11,6 @@ I am an undergraduate student at the College of Cybersecurity, Sichuan Universit
 的地得小警察！  
 很正宗的一个哈迷。  
 Feel free to contact me no matter for what.
+But hey, you gotta slide into my DMs first haha :)
 
 
