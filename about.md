@@ -5,7 +5,6 @@ subtitle: Thoughts..I do have some.
 permalink: /about/
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Centered Text</title>
@@ -19,11 +18,8 @@ permalink: /about/
 
 <p>
 如果一定要我形容自己: <br>
-的地得小警察！<br>
-很正宗的一个哈迷. <br>
-喜欢书和文字.<br>
-有时思考，有时犯懒.<br> 
-很多稀奇古怪的想法.<br>
+的地得小警察！| 很正宗的一个哈迷. | 喜欢书和文字.<br>
+有时思考，有时犯懒. | 很多稀奇古怪的想法.<br>
 ...
 </p>
 
